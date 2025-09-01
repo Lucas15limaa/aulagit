@@ -1,3 +1,5 @@
 # aulagit
 
 test 1
+
+*
